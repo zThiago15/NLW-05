@@ -13,8 +13,8 @@ Chat de suporte entre cliente e atendente em tempo real utilizando WebSockets e 
 
 ---
 ### Instalação ⬇️
-[Visual Studio Code](https://code.visualstudio.com/) - Ambiente de desenvolvimento integrado.
-[Node.js](https://nodejs.org/en/) - Baixe a versão recomendada LTS.
+* [Visual Studio Code](https://code.visualstudio.com/) - Ambiente de desenvolvimento integrado.
+* [Node.js](https://nodejs.org/en/) - Baixe a versão recomendada LTS.
 
 ---
 ### Tecnologias 💻
