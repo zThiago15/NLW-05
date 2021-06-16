@@ -8,12 +8,16 @@
 [socket-img]:      https://img.shields.io/badge/Socket.io-v.4.0.1-white
 [socket]:          https://socket.io/
 
-## Descrição
-Chat de suporte entre cliente e antendente em tempo real utilizando WebSockets e Express.
+### Descrição 📌
+Chat de suporte entre cliente e atendente em tempo real utilizando WebSockets e Express.
 
 ---
+### Instalação ⬇️
+[Visual Studio Code](https://code.visualstudio.com/) - Ambiente de desenvolvimento integrado.
+[Node.js](https://nodejs.org/en/) - Baixe a versão recomendada LTS.
 
-### Tecnologias:
+---
+### Tecnologias 💻
 
 * [**Node.js**](https://nodejs.org/en/): back-end do projeto.
 * [**Yarn**](https://yarnpkg.com/):  gerenciador de pacotes, similar ao npm.
@@ -22,7 +26,7 @@ Chat de suporte entre cliente e antendente em tempo real utilizando WebSockets e
 
 ---
 
-### Como executar: 
+### Execução  ✅
 
 ```bash
 # Instale o gerenciador de pacote yarn
@@ -46,13 +50,13 @@ $ yarn dev
 ```
 ##### O servidor vai se iniciar na porta :3333. Acesse no seu navegador a URL *http://localhost:3333*. 
 ---
-**Páginas do cliente**(_http://localhost:3333/pages/client_)
+**Página do cliente**(_http://localhost:3333/pages/client_) 📄
 
 ![image](https://user-images.githubusercontent.com/61299540/122161668-7a509280-ce48-11eb-87d8-20c0f7498188.png)
 ![image](https://user-images.githubusercontent.com/61299540/122161733-99e7bb00-ce48-11eb-81a0-f2e22f72baf4.png)
 
 ---
-**Páginas do antendente**(_http://localhost:3333/pages/admin_)
+**Página do atendente**(_http://localhost:3333/pages/admin_) 📄
 
 ![image](https://user-images.githubusercontent.com/61299540/122161989-23978880-ce49-11eb-9e7c-45c1fc769c61.png)
 ![image](https://user-images.githubusercontent.com/61299540/122161930-02369c80-ce49-11eb-8a7b-9bddb9fe5ad5.png)
